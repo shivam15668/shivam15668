@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam15668" alt="shivam15668" /></a> </p>
 
-- 💬 Ask me about **Machine Learning, Algorithms, Python, My SQL, Django**
+- 💬 Ask me about **Machine Learning, Algorithms, Python, My SQL, Django, Azure Data Services, Databricks, GenAI, Agentic AI, Spotfire, Azure cloud Services**
 
 - 📫 How to reach me **Shivamkumar15669@gmail.com**
 
